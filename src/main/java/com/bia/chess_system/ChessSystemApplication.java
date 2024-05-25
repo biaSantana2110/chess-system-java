@@ -1,10 +1,9 @@
-package bia.com.chess_system;
+package com.bia.chess_system;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-
-import bia.com.chess_system.Chess.ChessMatch;
+import com.bia.chess_system.chess.ChessMatch;
 
 
 @SpringBootApplication

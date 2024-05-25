@@ -1,6 +1,6 @@
-package bia.com.chess_system.Chess;
+package com.bia.chess_system.chess;
 
-import bia.com.chess_system.Boardgame.Board;
+import com.bia.chess_system.boardgame.Board;
 
 public class ChessMatch {
     private Board board;

@@ -1,4 +1,4 @@
-package bia.com.chess_system.Boardgame;
+package com.bia.chess_system.boardgame;
 
 public class Piece {
     protected Position position;

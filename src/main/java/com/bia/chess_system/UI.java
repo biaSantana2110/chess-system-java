@@ -1,6 +1,6 @@
-package bia.com.chess_system;
+package com.bia.chess_system;
 
-import bia.com.chess_system.Chess.ChessPiece;
+import com.bia.chess_system.chess.ChessPiece;
 
 public class UI {
     public static void printBoard(ChessPiece[][] pieces){

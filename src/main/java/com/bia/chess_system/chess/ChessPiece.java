@@ -1,7 +1,7 @@
-package bia.com.chess_system.Chess;
+package com.bia.chess_system.chess;
 
-import bia.com.chess_system.Boardgame.Board;
-import bia.com.chess_system.Boardgame.Piece;
+import com.bia.chess_system.boardgame.Board;
+import com.bia.chess_system.boardgame.Piece;
 
 public class ChessPiece extends Piece {
     private Color color;

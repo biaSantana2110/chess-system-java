@@ -1,4 +1,4 @@
-package bia.com.chess_system.Chess;
+package com.bia.chess_system.chess;
 
 public enum Color {
     BLACK,
