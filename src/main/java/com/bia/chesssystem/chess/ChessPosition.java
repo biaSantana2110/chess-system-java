@@ -1,6 +1,6 @@
-package com.bia.chess_system.chess;
+package com.bia.chesssystem.chess;
 
-import com.bia.chess_system.boardgame.Position;
+import com.bia.chesssystem.boardgame.Position;
 
 public class ChessPosition {
 

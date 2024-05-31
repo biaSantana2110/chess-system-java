@@ -1,6 +1,6 @@
-package com.bia.chess_system.chess;
+package com.bia.chesssystem.chess;
 
-import com.bia.chess_system.boardgame.BoardException;
+import com.bia.chesssystem.boardgame.BoardException;
 
 public class ChessException extends BoardException{
     public ChessException(String msg){

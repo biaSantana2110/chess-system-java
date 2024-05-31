@@ -1,4 +1,4 @@
-package com.bia.chess_system.boardgame;
+package com.bia.chesssystem.boardgame;
 
 public class Board {
 

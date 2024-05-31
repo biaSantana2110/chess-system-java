@@ -1,9 +1,9 @@
-package com.bia.chess_system.chess.chessPieces;
+package com.bia.chesssystem.chess.chessPieces;
 
-import com.bia.chess_system.boardgame.Board;
-import com.bia.chess_system.boardgame.Position;
-import com.bia.chess_system.chess.ChessPiece;
-import com.bia.chess_system.chess.Color;
+import com.bia.chesssystem.boardgame.Board;
+import com.bia.chesssystem.boardgame.Position;
+import com.bia.chesssystem.chess.ChessPiece;
+import com.bia.chesssystem.chess.Color;
 
 public class Rook extends ChessPiece {
 

@@ -1,10 +1,10 @@
-package com.bia.chess_system.chess;
+package com.bia.chesssystem.chess;
 
-import com.bia.chess_system.boardgame.Board;
-import com.bia.chess_system.boardgame.Piece;
-import com.bia.chess_system.boardgame.Position;
-import com.bia.chess_system.chess.chessPieces.King;
-import com.bia.chess_system.chess.chessPieces.Rook;
+import com.bia.chesssystem.boardgame.Board;
+import com.bia.chesssystem.boardgame.Piece;
+import com.bia.chesssystem.boardgame.Position;
+import com.bia.chesssystem.chess.chessPieces.King;
+import com.bia.chesssystem.chess.chessPieces.Rook;
 
 public class ChessMatch {
     private Board board;

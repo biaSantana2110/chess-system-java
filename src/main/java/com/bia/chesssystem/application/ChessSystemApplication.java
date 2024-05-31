@@ -1,4 +1,4 @@
-package com.bia.chess_system.application;
+package com.bia.chesssystem.application;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;
@@ -6,10 +6,10 @@ import java.util.Scanner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-import com.bia.chess_system.chess.ChessException;
-import com.bia.chess_system.chess.ChessMatch;
-import com.bia.chess_system.chess.ChessPiece;
-import com.bia.chess_system.chess.ChessPosition;
+import com.bia.chesssystem.chess.ChessException;
+import com.bia.chesssystem.chess.ChessMatch;
+import com.bia.chesssystem.chess.ChessPiece;
+import com.bia.chesssystem.chess.ChessPosition;
 
 @SpringBootApplication
 public class ChessSystemApplication {

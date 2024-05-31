@@ -1,8 +1,8 @@
-package com.bia.chess_system.chess;
+package com.bia.chesssystem.chess;
 
-import com.bia.chess_system.boardgame.Board;
-import com.bia.chess_system.boardgame.Piece;
-import com.bia.chess_system.boardgame.Position;
+import com.bia.chesssystem.boardgame.Board;
+import com.bia.chesssystem.boardgame.Piece;
+import com.bia.chesssystem.boardgame.Position;
 
 public abstract class ChessPiece extends Piece {
     private Color color;
